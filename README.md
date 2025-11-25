@@ -103,6 +103,21 @@ NEXT_PUBLIC_API_BASE_URL=http://localhost:5000
 
 ---
 
+## 👥 Demo Credentials
+
+### 👑 Admin
+email: c.eray@hotmail.com
+password: test1234
+
+shell
+Kodu kopyala
+
+### 👤 Customer
+email: test@gmail.com
+password: test1234
+
+---
+
 ## ▶️ Running the Application
 
 ### Start Backend
